@@ -1,16 +1,25 @@
 # AI Reference
 
 - [AI Reference](#ai-reference)
-- [Data Science \& Machine Learning](#data-science--machine-learning)
+- [AI Tools](#ai-tools)
+- [Machine Learning](#machine-learning)
   - [Theory](#theory)
-  - [Environments](#environments)
   - [Tools](#tools)
+- [Data Science](#data-science)
+  - [Tools](#tools-1)
 - [Deep Learning](#deep-learning)
   - [Theory](#theory-1)
   - [Research](#research)
-  - [Tools](#tools-1)
+  - [Tools](#tools-2)
+- [Other Libraries \& Tools](#other-libraries--tools)
+  - [IDE](#ide)
+  - [Environments](#environments)
 
-# Data Science & Machine Learning
+# AI Tools
+
+- [Hugging Face](https://huggingface.co/)
+
+# Machine Learning
 
 ## Theory
 
@@ -22,14 +31,11 @@
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
-## Environments
+## Tools
 
-- [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+- [scikit-learn](https://scikit-learn.org/0.21/documentation.html)
 
-- [Jupyter](https://docs.jupyter.org/en/latest/)
-
-  - [extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html)
-  - [IPython Docs](https://ipython.readthedocs.io/en/stable/index.html)
+# Data Science
 
 ## Tools
 
@@ -40,8 +46,6 @@
 - [Matplotlib](https://matplotlib.org/)
 
 - [seaborn](https://seaborn.pydata.org/)
-
-- [scikit-learn](https://scikit-learn.org/0.21/documentation.html)
 
 # Deep Learning
 
@@ -68,3 +72,18 @@
   - [Deep Learning with Pytorch - sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
 
   - [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+
+# Other Libraries & Tools
+
+## IDE
+
+- [Jupyter](https://docs.jupyter.org/en/latest/)
+
+  - [extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html)
+  - [IPython Docs](https://ipython.readthedocs.io/en/stable/index.html)
+
+## Environments
+
+- [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+
+- [pipenv](https://pipenv.pypa.io/)
