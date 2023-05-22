@@ -2,6 +2,8 @@
 
 - [AI Reference](#ai-reference)
 - [AI Tools](#ai-tools)
+  - [Hugging Face](#hugging-face)
+  - [ChatGPT](#chatgpt)
 - [Machine Learning](#machine-learning)
   - [Theory](#theory)
   - [Tools](#tools)
@@ -17,7 +19,13 @@
 
 # AI Tools
 
+## Hugging Face
+
 - [Hugging Face](https://huggingface.co/)
+
+## ChatGPT
+
+- [Prompt engineering for developers - deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 # Machine Learning
 
